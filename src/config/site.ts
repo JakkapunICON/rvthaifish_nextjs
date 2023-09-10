@@ -1,0 +1,10 @@
+export const siteConfig = {
+    name: "rvthaifish",
+    url: "https://rvthaifish.com",
+    links: {
+      twitter: "https://twitter.com/shadcn",
+      github: "https://github.com/shadcn-ui/ui",
+    },
+  }
+  
+  export type SiteConfig = typeof siteConfig
