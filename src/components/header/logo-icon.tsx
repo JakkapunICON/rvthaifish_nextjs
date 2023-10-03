@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import React from "react";
-import { Icons } from "@/components/icons";
+import { Icons } from "@/components/icons/icons";
 import { siteConfig } from "@/config/site";
 
 type Props = {};

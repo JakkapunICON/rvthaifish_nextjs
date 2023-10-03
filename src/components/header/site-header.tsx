@@ -2,7 +2,7 @@ import Link from "next/link";
 
 import { siteConfig } from "@/config/site";
 import { cn } from "@/lib/utils";
-import { Icons } from "@/components/icons";
+import { Icons } from "@/components/icons/icons";
 import { MainNav } from "@/components/header/main-nav";
 import { buttonVariants } from "@/components/ui/button";
 import { MobileNav } from "@/components/header/mobile-nav";
